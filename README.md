@@ -24,7 +24,3 @@ Al ejecutar la petición mientras se espera la respuesta muestra un icono de car
 Después muestra los emojies correspondientes y un botón para probar con otra película.
 
 ![Una imagen de la app que tiene un título, los emojies de la película y un botón](.github/emoji.png)
-
-## TODO
-[] Crear sección de adivinar la película con emojies
-[] Mejorar la interfaz
