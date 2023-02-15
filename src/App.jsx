@@ -40,7 +40,7 @@ const App = () => {
             {
                 emojies
                 ? <>
-                    <p className='text-xl rounded p-4 bg-slate-600 text-cyan-100'>{emojies}</p>
+                    <p className='text-xl rounded p-4 bg-slate-600 tracking-[.5rem] text-center text-cyan-100'>{emojies}</p>
                     <button 
                         className='bg-slate-800 text-cyan-100 py-2 px-4 rounded-sm'
                         onClick={() => setEmojies('')}
@@ -75,6 +75,10 @@ const App = () => {
                     </svg>
                 </p>
             }
+            <p className='absolute bottom-4 text-cyan-100'>
+                Hecho por 
+                <a className='text-cyan-500 pl-1' href="https://github.com/carandev" target='_blank' >@carandev</a>
+            </p>
         </main>
     )
 }
