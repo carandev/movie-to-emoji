@@ -75,7 +75,7 @@ const App = () => {
                     </svg>
                 </p>
             }
-            <p className='absolute bottom-4 text-cyan-100'>
+            <p className='absolute top-4 text-cyan-100'>
                 Hecho por 
                 <a className='text-cyan-500 pl-1' href="https://github.com/carandev" target='_blank' >@carandev</a>
             </p>
