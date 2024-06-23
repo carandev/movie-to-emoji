@@ -1,11 +1,11 @@
 # Convertir el nombre de una película en emojies 🎞📽
 
-Este proyecto surgió como idea gracias a los ejemplos que hay en la API de OpenAI.
+Este proyecto surgió como idea gracias a los ejemplos que hay en la API de OpenAI, se tuvo que migrar de la API de OpenAI a la de GeminiAI ya que la primera no estaba disponible para su uso de forma gratuita.
 
 ### Tecnologías usadas:
-- [React JS](https://reactjs.org) 
+- [React JS](https://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
-- [OpenAI API](https://openai.com/api/)
+- [GeminiAI API](https://ai.google.dev/)
 - [Vite JS](https://vitejs.dev)
 - [Vercel](https://vercel.com)
 - [Tabler Icons](https://tabler-icons.io)
